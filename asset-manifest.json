@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Chillhop-Player/static/css/main.db76597f.chunk.css",
+    "main.js": "/React-Chillhop-Player/static/js/main.161f3df6.chunk.js",
+    "main.js.map": "/React-Chillhop-Player/static/js/main.161f3df6.chunk.js.map",
+    "runtime-main.js": "/React-Chillhop-Player/static/js/runtime-main.f719b479.js",
+    "runtime-main.js.map": "/React-Chillhop-Player/static/js/runtime-main.f719b479.js.map",
+    "static/js/2.b7782215.chunk.js": "/React-Chillhop-Player/static/js/2.b7782215.chunk.js",
+    "static/js/2.b7782215.chunk.js.map": "/React-Chillhop-Player/static/js/2.b7782215.chunk.js.map",
+    "static/js/3.df3514ea.chunk.js": "/React-Chillhop-Player/static/js/3.df3514ea.chunk.js",
+    "static/js/3.df3514ea.chunk.js.map": "/React-Chillhop-Player/static/js/3.df3514ea.chunk.js.map",
+    "index.html": "/React-Chillhop-Player/index.html",
+    "static/css/main.db76597f.chunk.css.map": "/React-Chillhop-Player/static/css/main.db76597f.chunk.css.map",
+    "static/js/2.b7782215.chunk.js.LICENSE.txt": "/React-Chillhop-Player/static/js/2.b7782215.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f719b479.js",
+    "static/js/2.b7782215.chunk.js",
+    "static/css/main.db76597f.chunk.css",
+    "static/js/main.161f3df6.chunk.js"
+  ]
+}
